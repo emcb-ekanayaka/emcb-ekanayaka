@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Java, Spring, Java-Script, Angular**
+- 💬 Ask me about **Java, Spring-Boot, Java-Script, Angular**
 
 - 📫 How to reach me **ekanayakabdr@gmail.com**
 
